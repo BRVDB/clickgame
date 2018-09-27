@@ -1,0 +1,32 @@
+.navbar li {
+  display: inline-block;
+  text-align: center;
+  
+}
+
+.memory {
+  
+  float: left;
+}
+
+.itemCenter {
+	width: 70%;
+}
+
+.score {
+  width: 15%;
+  float: right;
+}
+
+.navbar {
+  background: gray;
+  height: 100px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  border-block-end: 15px;
+}
+
+
+
+body {
+  font-size: 24px;
+}
